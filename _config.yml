@@ -1,0 +1,6 @@
+title: Peba
+logo: assets/images/profile_picture1.png
+show_downloads: True
+remote_theme: pages-themes/minimal@v0.2.0
+plugins: 
+- jekyll-remote-theme
